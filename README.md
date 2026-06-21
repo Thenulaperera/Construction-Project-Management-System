@@ -138,15 +138,6 @@ npm start
 
 ---
 
-## 👨‍💻 My Contribution
-
-* Designed system architecture
-* Developed backend APIs using Spring Boot
-* Built responsive frontend with React & TypeScript
-* Implemented database schema and queries
-
----
-
 ## 🔮 Future Improvements
 
 * Cloud deployment (AWS / Azure)
