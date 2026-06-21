@@ -79,7 +79,8 @@ Database (MySQL)
 1. **Clone the repository**
 
 ```bash
-https://github.com/Thenulaperera/Construction-Project-Management-System.git
+git clone https://github.com/Thenulaperera/Construction-Project-Management-System.git cd your-repo-name
+
 ```
 
 2. **Setup Backend**
