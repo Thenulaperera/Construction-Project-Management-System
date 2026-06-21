@@ -1,46 +1,65 @@
 # 🏗️ Construction Project Management System
 
+<p align="center">
+  <b>A full-stack enterprise-grade system for managing construction projects efficiently</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20(TypeScript)-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend-Java%20(Spring%20Boot)-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
+
+---
+
 ## 📌 Overview
 
-The **Construction Project Management System** is a full-stack web application designed to streamline and digitize construction project workflows. It provides an integrated platform for managing projects, tracking progress, allocating resources, and enhancing collaboration among stakeholders.
+The **Construction Project Management System** is a full-stack web application designed to streamline and digitize construction project workflows.
 
-This system aims to improve efficiency, reduce delays, and ensure better decision-making through centralized data management and real-time updates.
-
----
-
-## 🎯 Objectives
-
-* Simplify construction project planning and execution
-* Enhance team collaboration and communication
-* Provide real-time project tracking and reporting
-* Optimize resource and task management
+It provides a centralized platform for managing project timelines, resources, tasks, and team collaboration, reducing inefficiencies and improving decision-making in construction environments.
 
 ---
 
-## ✨ Key Features
+## 🚀 Key Features
 
-* 📊 **Project Management** – Create, update, and monitor construction projects
-* 🧑‍🤝‍🧑 **User Role Management** – Admin, Manager, and Worker roles
-* 📋 **Task Assignment & Tracking** – Assign tasks and monitor progress
-* 📦 **Resource Management** – Track materials and equipment usage
-* 📈 **Reporting & Analytics** – Generate insights for decision-making
-* 🔔 **Real-Time Updates** – Ensure timely communication and transparency
+* 📊 Project planning and lifecycle management
+* 🧑‍🤝‍🧑 Role-based user management (Admin, Manager, Worker)
+* 📅 Task assignment and real-time progress tracking
+* 🏗️ Resource and material management
+* 🔔 Real-time updates and notifications
+* 📈 Reports and analytics dashboard
+
+---
+
+## 🧠 Problem Statement
+
+Construction projects often suffer from:
+
+* Poor communication between teams
+* Lack of real-time tracking
+* Inefficient resource management
+* Delays due to manual processes
+
+This system addresses these challenges by introducing a **digital, automated, and centralized solution**.
 
 ---
 
 ## 🏗️ System Architecture
 
 ```
-Frontend (React + TypeScript)
+Client (React + TypeScript)
         ↓
-Backend (Java Spring Boot REST APIs)
+REST API (Spring Boot - Java)
         ↓
 Database (MySQL)
 ```
 
-* **Frontend**: Provides an interactive user interface for managing operations
-* **Backend**: Handles business logic, APIs, and server-side processing
-* **Database**: Stores project, user, and resource data
+### 🔹 Architecture Explanation
+
+* **Frontend:** Handles UI/UX and user interaction
+* **Backend:** Processes business logic and exposes REST APIs
+* **Database:** Stores structured project and user data
 
 ---
 
@@ -48,10 +67,9 @@ Database (MySQL)
 
 ### 🎨 Frontend
 
-* React.js
-* TypeScript
-* HTML5, CSS3
+* React.js (TypeScript)
 * JavaScript (ES6+)
+* HTML5 & CSS3
 
 ### ⚙️ Backend
 
@@ -66,92 +84,80 @@ Database (MySQL)
 
 ---
 
-## 🚀 Installation & Setup
-
-### Prerequisites
-
-* Node.js & npm
-* Java JDK (8 or above)
-* MySQL Database
-
-### Steps
-
-1. **Clone the repository**
-
-```bash
-https://github.com/Thenulaperera/Construction-Project-Management-System.git
+## 📂 Project Structure
 
 ```
+/frontend   → React application (UI)
+/backend    → Spring Boot application (API)
+/database   → SQL scripts and schema
+```
 
-2. **Setup Backend**
+---
 
-```bash
+## ⚙️ Installation & Setup
+
+### 🔧 Prerequisites
+
+* Node.js
+* Java JDK
+* MySQL
+* Git
+
+### 🚀 Steps
+
+1. Clone the repository
+
+```
+git clone https://github.com/Thenulaperera/Construction-Project-Management-System.git
+```
+
+2. Setup Backend
+
+```
 cd backend
 # Run Spring Boot application
 ```
 
-3. **Setup Frontend**
+3. Setup Frontend
 
-```bash
+```
 cd frontend
 npm install
 npm start
 ```
 
-4. **Configure Database**
+4. Configure Database
 
-* Create a MySQL database
-* Import provided `.sql` file
+* Import `.sql` file into MySQL
 * Update database credentials in backend configuration
 
 ---
 
 ## 📸 Screenshots
 
-*(Add screenshots here to showcase UI and features)*
+> *(Add your actual UI screenshots here for better impact)*
 
 ---
 
-## 📂 Project Structure
+## 👨‍💻 My Contribution
 
-```
-project-root/
-│
-├── frontend/        # React + TypeScript client
-├── backend/         # Spring Boot server
-├── database/        # SQL scripts
-└── README.md
-```
+* Designed system architecture
+* Developed backend APIs using Spring Boot
+* Built responsive frontend with React & TypeScript
+* Implemented database schema and queries
 
 ---
 
-## 🧩 Future Enhancements
+## 🔮 Future Improvements
 
 * Cloud deployment (AWS / Azure)
-* Mobile application support
-* Advanced analytics dashboard
-* Real-time notifications using WebSockets
+* Mobile application integration
+* Advanced analytics and reporting
+* Real-time collaboration features
 
 ---
 
-## 🤝 Contribution
 
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## ⭐ Acknowledgements
-
-* Developed as part of an academic/real-world project
-* Inspired by modern construction management challenges
-
----
 
 
 
