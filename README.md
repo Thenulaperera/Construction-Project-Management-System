@@ -7,4 +7,4 @@ A modern, web-based Construction Project Management System designed to digitise 
 
 ![image alt](https://github.com/Thenulaperera/Construction-Project-Management-System/blob/ee0ec007b72009a66db90c961a57ccc2e556d69c/Projects%20UI.jpeg)
 
-!image alt](
+![image alt](https://github.com/Thenulaperera/Construction-Project-Management-System/blob/1acbe48376f6d4316b93980320d543df600290c8/Reports%20UI.jpeg)
