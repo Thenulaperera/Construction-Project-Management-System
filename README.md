@@ -3,4 +3,4 @@ A modern, web-based Construction Project Management System designed to digitise 
 
 🎥 Demo
 
-https://github.com/Thenulaperera/Construction-Project-Management-System/blob/741366888a93938dd33cbcdf7720388be180106f/ProjectDemo.mp4
+[Video Demo](https://github.com/Thenulaperera/Construction-Project-Management-System/blob/741366888a93938dd33cbcdf7720388be180106f/ProjectDemo.mp4)
