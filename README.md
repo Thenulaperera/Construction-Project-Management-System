@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Frontend-React%20(TypeScript)-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Backend-Java%20(Spring%20Boot)-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 </p>
 
 ---
