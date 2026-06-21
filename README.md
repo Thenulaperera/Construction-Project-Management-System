@@ -132,12 +132,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your actual UI screenshots here for better impact)*
-
----
-
 ## 🔮 Future Improvements
 
 * Cloud deployment (AWS / Azure)
