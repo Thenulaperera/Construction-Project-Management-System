@@ -20,6 +20,14 @@ It provides a centralized platform for managing project timelines, resources, ta
 
 ---
 
+🎥 Demo Video
+
+▶️ Watch the Project in Action
+
+https://github.com/user-attachments/assets/f2850e62-5306-41fb-afd1-b279ab615587
+
+---
+
 ## 🚀 Key Features
 
 * 📊 Project planning and lifecycle management
@@ -129,12 +137,6 @@ npm start
 
 * Import `.sql` file into MySQL
 * Update database credentials in backend configuration
-
----
-
-🚀 Live Demo
-
-https://github.com/user-attachments/assets/f2850e62-5306-41fb-afd1-b279ab615587
 
 ---
 
