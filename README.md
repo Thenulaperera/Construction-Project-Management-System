@@ -132,6 +132,12 @@ npm start
 
 ---
 
+🚀 Live Demo
+
+https://github.com/user-attachments/assets/f2850e62-5306-41fb-afd1-b279ab615587
+
+---
+
 ## 🔮 Future Improvements
 
 * Cloud deployment (AWS / Azure)
